@@ -19,7 +19,7 @@ Or install it yourself as:
 
 ## Usage
 
-```
+```ruby
 DevcampViewTool::Renderer.copyright 'Tomoko Ichikawa', 'All rights reserved'
 ```
 
