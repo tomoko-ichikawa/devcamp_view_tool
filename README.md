@@ -19,7 +19,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+DevcampViewTool::Renderer.copyright 'Tomoko Ichikawa', 'All rights reserved'
+```
 
 ## Development
 
